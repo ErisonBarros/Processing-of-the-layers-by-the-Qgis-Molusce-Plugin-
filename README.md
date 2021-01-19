@@ -1,7 +1,5 @@
 # Processing of the layers by the Qgis Molusce Plugin
 
-2021-01-19 10:01:10 Tuesday
-
 From the exploratory analysis of the 2010 data, since they are the data but close to the reality of the last census we verify in a routine in python and R we study the distribution of variables and generate the correlation matrix of variables.
 
 

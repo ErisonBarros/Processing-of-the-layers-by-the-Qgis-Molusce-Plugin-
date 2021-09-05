@@ -53,6 +53,11 @@ They are the Models:
 The models that presented the best statistical results.
 
 **Validação dos modelos de Potencial de transição**
+
 <img src="https://i.ibb.co/XCxrdYq/Simula-o-Por-RN.png" alt="Simula-o-Por-RN" border="0">
+
+
 **Parâmetros da Matriz Kappa para  Validação dos modelos de Potencial de transição**
+
+
 <img src="https://i.ibb.co/LgjzZKq/Simula-o-Por-regress-o-logistica.png" alt="Simula-o-Por-regress-o-logistica" border="0">

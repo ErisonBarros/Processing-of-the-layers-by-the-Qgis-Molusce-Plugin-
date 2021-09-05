@@ -4,9 +4,16 @@ From the exploratory analysis of the 2010 data, since they are the data but clos
 
 
 **Correlation matrix between the variables**
+
+
 <img src="https://i.ibb.co/nR0V0hK/Correla-o.png" alt="Correla-o" border="0">
 
 ------------
+## Uso do Solo em 2000, 2010 e 2018
+
+<a href="https://ibb.co/wQLFkmK"><img src="https://i.ibb.co/QHc3gw6/Figure-4.png" alt="Figure-4" border="0"></a>
+
+
 ## USE OF MOLUSCE PLUGIN
 
 We introduced the standardized and normalized raster of socioeconomic and infrastructure variables in Qgis. We started the processing.
